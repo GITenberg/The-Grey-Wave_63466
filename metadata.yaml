@@ -1,0 +1,38 @@
+_repo: The-Grey-Wave_63466
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Gibbs, Philip
+    aliases:
+    - Gibbs, Phillip
+    - Gibbs, Philip Hamilton, Sir
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '1174'
+    url: http://www.gutenberg.org/2009/agents/1174
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Gibbs
+creator:
+  author:
+    agent_name: Gibbs, A. Hamilton (Arthur Hamilton)
+    alias: Gibbs, Arthur Hamilton
+    birthdate: 1888
+    deathdate: 1964
+    gutenberg_agent_id: '41950'
+    url: http://www.gutenberg.org/2009/agents/41950
+description: ''
+gutenberg_issued: '2020-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63466'
+  lccn: '20004884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, British'
+- GITenberg
+tableOfContents: The ranks -- Ubique -- The Western Front -- The Armistice.
+title: The Grey Wave
+url: http://www.gutenberg.org/ebooks/63466
