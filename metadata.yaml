@@ -1,5 +1,5 @@
 _repo: The-Grey-Wave_63466
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Gibbs, Philip
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '1174'
     url: http://www.gutenberg.org/2009/agents/1174
     wikipedia: http://en.wikipedia.org/wiki/Philip_Gibbs
+covers:
+- cover_type: archival
+  image_path: 63466-h/images/cover.jpg
 creator:
   author:
     agent_name: Gibbs, A. Hamilton (Arthur Hamilton)
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '41950'
     url: http://www.gutenberg.org/2009/agents/41950
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63466#The-Grey-Wave
 gutenberg_issued: '2020-10-15'
 gutenberg_type: Text
 identifiers:
